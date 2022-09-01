@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=76819C&height=200&section=header&text=Hello!&fontSize=60&fontColor=000000&fontAlign=82&fontAlignY=27&animation=fadeIn&desc=I'm%20JongYoon&descSize=20&descAlign=82&descAlignY=44&rotate=13)
 
 
 <div align=center>
@@ -30,7 +29,6 @@
 
 
 
-.
 
 
 
