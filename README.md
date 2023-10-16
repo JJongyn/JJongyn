@@ -22,5 +22,6 @@
 &#160;
 &#160;
 
-💻 About me,  [ Click it!]( https://jjongyn.notion.site/64ba38879686429ba78de120b1b25ebb )
+
 </div>
+<!-- 💻 About me,  [ Click it!]( https://jjongyn.notion.site/64ba38879686429ba78de120b1b25ebb ) -->
