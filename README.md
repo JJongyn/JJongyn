@@ -13,11 +13,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjongyn&show_icons=true)
 
 
-머신러닝 엔지니어가 목표인 개발자 꿈나무입니다. 
+I am currently a master's student in AI (Efficiency, autonomous vehicles). 
 
-다양한 분야에 머신러닝 알고리즘을 적용해보며, 지식을 쌓고 있습니다.
+I've been applying machine learning algorithms to various fields and building my knowledge.
 
-아직 부족한 점이 많지만 언젠가는 멋쟁이 개발자가 될 거라 믿습니다.
+I still have a lot to work on, but I believe I will be a great developer one day.
+
 
 &#160;
 &#160;
