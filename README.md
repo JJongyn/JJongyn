@@ -23,4 +23,4 @@ I still have a lot to work on, but I believe I will be a great developer one day
 &#160;
 &#160;
 
-💻 About me,  [ Click it!]( https://jjongyn.notion.site/64ba38879686429ba78de120b1b25ebb )
+💻 About me,  [ Click it!]( https://jjongyn.notion.site/64ba38879686429ba78de120b1b25ebb ) -->
