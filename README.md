@@ -1,5 +1,5 @@
 
-Hi there 👋, my name is JongYoon
+Hi there 👋, my name is JongYun
 
 My research interests include Parameter Efficient Fine-Tuning (PEFT), Meta-Learning, Unlearning, and Model Compression, focusing on efficiently utilizing large AI models for real-world applications. I am passionate about creating innovative value through discoveries and aspire to drive meaningful change in AI by exploring cutting-edge technology trends and creative approaches. For more detailed information about me, please refer to my [website](https://jjongyn.github.io/).
 
