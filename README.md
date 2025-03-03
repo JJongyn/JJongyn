@@ -24,6 +24,6 @@ My research interests include Parameter Efficient Fine-Tuning (PEFT), Meta-Learn
 1. **Outstanding Talent Award in Computer Science (M.Sc., Artificial Intelligence)** 🏆 — Kookmin University, Feb 2025  
 2. **Best Graduate Student Thesis-Based IP Creation Award** 🏆 — Kookmin University, Aug 2024  
 3. **International Collegiate EV Autonomous Driving Competition (1st Place)** 🥇 — International e-Mobility Expo, May 2024  
-4. **Academic Honor Award, Department of Electronic Engineering (1st Place)** 🥇 — Kookmin University, Aug 2022  
+4. **Academic Honor Award, Department of Electronic Engineering (Valedictorian)** 🥇 — Kookmin University, Aug 2022  
 5. **Kookmin University Achievement Award** 🏆 — Kookmin University, Aug 2022  
 6. **Autonomous Video Object Detection Contest (1st Place)** 🥇 — Ministry of Trade, Industry and Energy, Dec 2021  
