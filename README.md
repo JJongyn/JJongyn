@@ -16,9 +16,13 @@ My research interests include Parameter Efficient Fine-Tuning (PEFT), Meta-Learn
 # 📜 Publications  
 
 ### International Conferences  
-- J. Shin, S. Han, and J. Kim, “Cooperative meta-learning with gradient augmentation,” in *Uncertainty in Artificial Intelligence (UAI - acceptance rate of 27%)*, PMLR, 2024.  
+- **J. Shin**, S. Han, and J. Kim, “Cooperative meta-learning with gradient augmentation,” in *Uncertainty in Artificial Intelligence (UAI - acceptance rate of 27%)*, PMLR, 2024.  
   [Paper](https://arxiv.org/abs/2406.04639) | [Code](https://github.com/JJongyn/CML)
+
+### International Journal
+- S. Ahn, **J. Shin**, and J. Kim, “Quantization-aware training with Dynamic and Static Pruning,” in *IEEE Access*, 2025.
   
+
 # 🏆 Awards  
 
 1. **Outstanding Talent Award in Computer Science (M.Sc., Artificial Intelligence)** 🏆 — Kookmin University, Feb 2025  
