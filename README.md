@@ -20,6 +20,9 @@ My research interests include Parameter Efficient Fine-Tuning (PEFT), Meta-Learn
   [Paper](https://arxiv.org/abs/2406.04639) | [Code](https://github.com/JJongyn/CML)
 
 ### International Journal
+- **J. Shin**, J. Kim and J. Kim, “Entropy-Guided Meta-Initialization Regularization for Few-Shot Text Classification,” in Knowledge-Based Systems (SCI Q1, Impact Factor: 8.8), Elsevier, 2025
+  [Paper](https://) | [Code](https://github.com/JJongyn/EGMI)
+  
 - S. Ahn, **J. Shin**, and J. Kim, “Quantization-aware training with Dynamic and Static Pruning,” in *IEEE Access*, 2025.
   [Paper](https://ieeexplore.ieee.org/document/10946020) | [Code](https://github.com/JJongyn/QADS)
 
