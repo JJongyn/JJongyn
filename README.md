@@ -18,6 +18,7 @@ My research interests include Parameter Efficient Fine-Tuning (PEFT), Meta-Learn
 ### International Conferences  
 - **J. Shin**, S. Han, and J. Kim, “Cooperative meta-learning with gradient augmentation,” in *Uncertainty in Artificial Intelligence (UAI - acceptance rate of 27%)*, PMLR, 2024.  
   [Paper](https://arxiv.org/abs/2406.04639) | [Code](https://github.com/JJongyn/CML)
+- Jinwoo Kim, **Jongyun Shin**, Sangho Ahn, Jangho Kim, "Exploring Diverse Sparse Network Structures via Dynamic Pruning with Weight Alignment" in The 34th ACM Conference on Information and Knowledge Management (CIKM), 2025
 
 ### International Journal
 - **J. Shin**, J. Kim and J. Kim, “Entropy-Guided Meta-Initialization Regularization for Few-Shot Text Classification,” in Knowledge-Based Systems (SCI Q1, Impact Factor: 8.8), Elsevier, 2025
